@@ -3,7 +3,7 @@ This is a sample source code for the ayalysis in the following paper:
 https://doi.org/10.1101/2025.06.21.660840
 
 
-After placing the following files in the curren cirectory
+After placing the following files in the current cirectory
 ./data/*.txt
 GSE69079_series_matrix.txt.gz # from GEO
 GPL1261-56135.txt.gz #from GEO
