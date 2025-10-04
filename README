@@ -8,4 +8,4 @@ After placing the following files in the current cirectory
 GSE69079_series_matrix.txt.gz # from GEO
 GPL1261-56135.txt.gz #from GEO
 
-Run sample.R with selecteding either k0<-3 or k0<-4.　Then  you can get dataframe including selected genes. 
+Run sample.R with selecting either k0<-3 or k0<-4.　Then  you can get dataframe including selected genes. 
